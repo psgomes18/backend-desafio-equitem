@@ -11,8 +11,8 @@ Projeto backend desenvolvido para o desafio de programação para a vaga de Esta
 - Sequelize
 
 ## Pré-Requisitos
-É necessário ter o Node.js instalado na máquina para rodar o projeto. 
-É necessário ter um banco de dados PostgreSQL instalado localmente para a gravação e leitura.
+- É necessário ter o Node.js instalado na máquina para rodar o projeto. 
+- É necessário ter um banco de dados PostgreSQL instalado localmente para a gravação e leitura.
 
 ### Rodando o backend
 $ git clone [este projeto]
