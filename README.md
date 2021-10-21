@@ -18,8 +18,9 @@ Projeto backend desenvolvido para o desafio de programação para a vaga de Esta
 $ git clone [este projeto]
 
 ### Instale as dependências
-$ npm install
-$ Altere as variaveis de ambiente no arquivo "db.js" para seu Banco de Dados PostgreSQL local.
+$ npm install \
+
+IMPORTANTE: Altere os parametros no arquivo db.js de acordo com seu Banco de Dados Local.  
 
 ### Execute a aplicação
 $ node index.js
