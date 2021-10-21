@@ -23,7 +23,7 @@ $ npm install
 ### Execute a aplicação
 $ node index.js
 
-### O servidor iniciará na porta:3000 - Acesse <[localhost:3000](localhost:3000)>
+### O servidor iniciará na porta:3000 - Acesse [localhost:3000](localhost:3000)
 
 ### Features
 - [X]Busca de CNPJ através do Webservice Receita WS.
