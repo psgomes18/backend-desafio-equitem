@@ -19,6 +19,7 @@ $ git clone [este projeto]
 
 ### Instale as dependências
 $ npm install
+$ Altere as variaveis de ambiente no arquivo "db.js" para seu Banco de Dados PostgreSQL local.
 
 ### Execute a aplicação
 $ node index.js
